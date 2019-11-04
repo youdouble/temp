@@ -1,0 +1,17 @@
+{
+  "preaudit": {
+    "header": {
+      "flags": {
+        "f1": "Good Lead",
+        "f2": "Review Lead",
+        "f3": "Reject"
+      }
+    },
+    "body": {
+      "reasons": {
+        "r2.1": 3
+      },
+      "result": 3
+    }
+  }
+}
