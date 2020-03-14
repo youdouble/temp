@@ -4,6 +4,6 @@
   
 ## What it do?
 
-  It's prettu much so I can stick a .json file, or whatever in here so if I need to fake a truly external endpoint I can. That's it. 
+  Since I am generally logged into Github its easy for me to just pop a fake JSON object in here and grab it from a service. 
   
   
